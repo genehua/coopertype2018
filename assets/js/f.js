@@ -63,14 +63,14 @@ $(document).ready(function(e){
       $('.home-post-item').each(function(i){
         // set grey value according to absolute value function
         // + 0.5 to center mouse within container
-        var value = 100 - Math.abs(2*(i - (mousePos*10) + 0.5));
+        var value = 100 - Math.abs(10*(i - (mousePos*10) + 0.5));
         $(this).css('background-color', 'hsl(0,0%,' + value + '%)');
       });
     }
 
     if (vw <= 1023) {
       $('.home-post-item').each(function(i){
-        var value = 100 - Math.abs(2*((i%5) - (mousePos*5) + 0.5));
+        var value = 100 - Math.abs(10*((i%5) - (mousePos*5) + 0.5));
         $(this).css('background-color', 'hsl(0,0%,' + value + '%)');
       });
     }
