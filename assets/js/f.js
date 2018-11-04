@@ -18,10 +18,9 @@ $(document).ready(function(e){
             $('.home-post-item').removeClass('pre-mouse-move');
           }, 300);
         };
-        var xPos = e.gamma;
-        xPos = Math.round(e.gamma);
+        var xPos = Math.round(e.gamma);
 
-        var sensitivity = 40;
+        var sensitivity = 25;
         if (xPos < sensitivity && xPos > -sensitivity) {
           mousePos = (xPos + sensitivity) / (sensitivity*2);
         }
@@ -32,12 +31,8 @@ $(document).ready(function(e){
           mousePos = 0;
         }
 
-        $('#mousePos').html(mousePos);
-        $('#alpha').html(xPos);
-
         setGrey();
-
-        console.log(mousePos);
+        
       };
       window.addEventListener("deviceorientation", handleOrientation, true);
     }
@@ -68,14 +63,14 @@ $(document).ready(function(e){
       $('.home-post-item').each(function(i){
         // set grey value according to absolute value function
         // + 0.5 to center mouse within container
-        var value = 100 - Math.abs(10*(i - (mousePos*10) + 0.5));
+        var value = 100 - Math.abs(3*(i - (mousePos*10) + 0.5));
         $(this).css('background-color', 'hsl(0,0%,' + value + '%)');
       });
     }
 
     if (vw <= 1023) {
       $('.home-post-item').each(function(i){
-        var value = 100 - Math.abs(10*((i%5) - (mousePos*5) + 0.5));
+        var value = 100 - Math.abs(3*((i%5) - (mousePos*5) + 0.5));
         $(this).css('background-color', 'hsl(0,0%,' + value + '%)');
       });
     }
