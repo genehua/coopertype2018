@@ -7,7 +7,7 @@ family-image: "/coopertype2018/assets/images/geranium/family.svg"
 glyph-image: "/coopertype2018/assets/images/geranium/glyph.svg"
 permalink: /geranium/
 description: |
-  GERANIUM is a planty typeface family with soft, elegant, and curvy qualities for the modern horicultural magazine. It is a slightly narrow, medium-high contrast translation serif designed for optimal usage of 16 point size body copy. The ligatures are designed to mimic the organic, wild nature of how geraniums can grow and bloom in any soil.
+  Geranium is a planty typeface family with soft, elegant, and curvy qualities for the modern horicultural magazine. It is a slightly narrow, medium-high contrast translation serif designed for optimal usage of 16 point size body copy. The ligatures are designed to mimic the organic, wild nature of how geraniums can grow and bloom in any soil.
 
   Instagram @ayaka.b.ito
   www.ayakaito.com
