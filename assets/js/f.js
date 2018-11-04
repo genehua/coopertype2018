@@ -19,6 +19,8 @@ $(document).ready(function(e){
           }, 300);
         };
         var xPos = e.alpha;
+        xPos = Math.round(e.alpha);
+        
         var sensitivity = 40;
         if (xPos < sensitivity && xPos > -sensitivity) {
           mousePos = (xPos + sensitivity) / (sensitivity*2);
