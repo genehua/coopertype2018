@@ -20,7 +20,7 @@ $(document).ready(function(e){
         };
         var xPos = e.alpha;
         xPos = Math.round(e.alpha);
-        
+
         var sensitivity = 40;
         if (xPos < sensitivity && xPos > -sensitivity) {
           mousePos = (xPos + sensitivity) / (sensitivity*2);
@@ -31,6 +31,9 @@ $(document).ready(function(e){
         if (xPos < -sensitivity) {
           mousePos = 0;
         }
+
+        $('#mousePos').html(mousePos);
+        $('#alpha').html(xPos);
 
         setGrey();
 
