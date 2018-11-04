@@ -11,4 +11,4 @@ Hannes Famira and Alexander Tochilovsky provided primary instruction, with suppo
 
 Non-student text on this site uses [Garnett](https://sharptype.co/typefaces/Garnett/) by Connor Davenport. Site by Gene Hua.
 
-[![Type@Cooper](/assets/images/cooper-type-logo.svg){:class="cooper-logo"}](http://coopertype.org)
+[![Type@Cooper](/coopertype2018/assets/images/cooper-type-logo.svg){:class="cooper-logo"}](http://coopertype.org)

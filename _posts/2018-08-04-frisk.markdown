@@ -3,15 +3,15 @@ layout: post
 title:  "Frisk"
 first-name: "Gene"
 last-name: "Hua"
-family-image: "/assets/images/frisk/family.svg"
-glyph-image: "/assets/images/frisk/glyph.svg"
+family-image: "/coopertype2018/assets/images/frisk/family.svg"
+glyph-image: "/coopertype2018/assets/images/frisk/glyph.svg"
 permalink: /frisk/
 description: |
   Frisk combines round shapes and sharp details to create a subtle drama. Inspiration comes from the reading experinces in theatres, with details rooted in exaggerated calligraphy stroke separations.
 ---
 
-![01](/assets/images/frisk/01.png){:class="square left"}
-![02](/assets/images/frisk/02.png){:class="square right"}
-![03](/assets/images/frisk/03.png){:class="rect"}
-![04](/assets/images/frisk/04.png){:class="square left"}
-![05](/assets/images/frisk/05.png){:class="square right"}
+![01](/coopertype2018/assets/images/frisk/01.png){:class="square left"}
+![02](/coopertype2018/assets/images/frisk/02.png){:class="square right"}
+![03](/coopertype2018/assets/images/frisk/03.png){:class="rect"}
+![04](/coopertype2018/assets/images/frisk/04.png){:class="square left"}
+![05](/coopertype2018/assets/images/frisk/05.png){:class="square right"}

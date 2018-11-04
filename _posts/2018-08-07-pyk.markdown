@@ -3,15 +3,15 @@ layout: post
 title:  "Pyk"
 first-name: "Erica"
 last-name: "Carras"
-family-image: "/assets/images/pyk/family.svg"
-glyph-image: "/assets/images/pyk/glyph.svg"
+family-image: "/coopertype2018/assets/images/pyk/family.svg"
+glyph-image: "/coopertype2018/assets/images/pyk/glyph.svg"
 permalink: /pyk/
 description: |
   Made for the indie, grunge or punk scene, Pyk is an upright italic sans serif text face with no fear of being a little bit funky. Inspired by the work of Helmut Salden and his bouncing brush lettering, Pyk sets out to capture that bouncing rhythm, but designed for text setting.
 ---
 
-![01](/assets/images/pyk/01.jpg){:class="square left"}
-![02](/assets/images/pyk/02.jpg){:class="square right"}
-![03](/assets/images/pyk/03.jpg){:class="rect"}
-![04](/assets/images/pyk/04.jpg){:class="square left"}
-![05](/assets/images/pyk/05.jpg){:class="square right"}
+![01](/coopertype2018/assets/images/pyk/01.jpg){:class="square left"}
+![02](/coopertype2018/assets/images/pyk/02.jpg){:class="square right"}
+![03](/coopertype2018/assets/images/pyk/03.jpg){:class="rect"}
+![04](/coopertype2018/assets/images/pyk/04.jpg){:class="square left"}
+![05](/coopertype2018/assets/images/pyk/05.jpg){:class="square right"}

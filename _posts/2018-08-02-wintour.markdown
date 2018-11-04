@@ -3,15 +3,15 @@ layout: post
 title:  "Wintour"
 first-name: "Nobi"
 last-name: "Kashiwagi"
-family-image: "/assets/images/wintour/family.svg"
-glyph-image: "/assets/images/wintour/glyph.svg"
+family-image: "/coopertype2018/assets/images/wintour/family.svg"
+glyph-image: "/coopertype2018/assets/images/wintour/glyph.svg"
 permalink: /wintour/
 description: |
   Wintour is a text face family that has the elegance to complement Didot, which is commonly used as a display typeface in fashion magazines. Increased x-height and slightly narrow proportions improve readability and increase the word count on the page. It’s a new Times New Roman alternative.
 ---
 
-![01](/assets/images/wintour/01.png){:class="rect"}
-![02](/assets/images/wintour/02.png){:class="rect"}
-![03](/assets/images/wintour/03.png){:class="rect"}
-![04](/assets/images/wintour/04.png){:class="rect"}
-![05](/assets/images/wintour/05.png){:class="rect"}
+![01](/coopertype2018/assets/images/wintour/01.png){:class="rect"}
+![02](/coopertype2018/assets/images/wintour/02.png){:class="rect"}
+![03](/coopertype2018/assets/images/wintour/03.png){:class="rect"}
+![04](/coopertype2018/assets/images/wintour/04.png){:class="rect"}
+![05](/coopertype2018/assets/images/wintour/05.png){:class="rect"}

@@ -3,17 +3,17 @@ layout: post
 title:  "Una"
 first-name: "Annabel"
 last-name: "Brandon"
-family-image: "/assets/images/una/family.svg"
-glyph-image: "/assets/images/una/glyph.svg"
+family-image: "/coopertype2018/assets/images/una/family.svg"
+glyph-image: "/coopertype2018/assets/images/una/glyph.svg"
 permalink: /una/
 description: |
   Una Wide blends high and low culture by incorporating elegant details and classic proportions, with dot-matrix technology making it de rigueur for sophisticated receipts and labels.
   By increasing the x-height and exaggerating the width, Una Wide has been designed specifically for use with thermal printers at 10-12pt. With regular tests—resulting in the drawings being adapted—Una Wide maintains an even texture and open apertures despite the characteristic low resolutions offered by the printing medium, enabling it to print better than many serif typefaces.
 ---
 
-![01](/assets/images/una/01.jpg){:class="rect"}
-![02](/assets/images/una/02.jpg){:class="square left"}
-![03](/assets/images/una/03.jpg){:class="square right"}
-![06](/assets/images/una/06.jpg){:class="rect"}
-![04](/assets/images/una/04.jpg){:class="rect"}
-![05](/assets/images/una/05.jpg){:class="rect"}
+![01](/coopertype2018/assets/images/una/01.jpg){:class="rect"}
+![02](/coopertype2018/assets/images/una/02.jpg){:class="square left"}
+![03](/coopertype2018/assets/images/una/03.jpg){:class="square right"}
+![06](/coopertype2018/assets/images/una/06.jpg){:class="rect"}
+![04](/coopertype2018/assets/images/una/04.jpg){:class="rect"}
+![05](/coopertype2018/assets/images/una/05.jpg){:class="rect"}

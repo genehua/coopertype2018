@@ -3,17 +3,17 @@ layout: post
 title:  "Cadence"
 first-name: "Lindsay"
 last-name: "Barnett"
-family-image: "/assets/images/cadence/family.svg"
-glyph-image: "/assets/images/cadence/glyph.svg"
+family-image: "/coopertype2018/assets/images/cadence/family.svg"
+glyph-image: "/coopertype2018/assets/images/cadence/glyph.svg"
 permalink: /cadence/
 description: |
   Cadence is an elegant text type family designed for poetry. Inspired by the proportions of early 20th century typefaces, like Cochin, Cadence has long ascenders and a small x-height. Currently, it includes 3 weights, light, book and bold, and a book italic.
 ---
 
-![01](/assets/images/cadence/01.jpg){:class="square left"}
-![02](/assets/images/cadence/02.jpg){:class="square right"}
-![03](/assets/images/cadence/03.jpg){:class="square rect"}
-![04](/assets/images/cadence/04.jpg){:class="square rect"}
-![07](/assets/images/cadence/07.jpg){:class="rect"}
-![05](/assets/images/cadence/05.jpg){:class="square left"}
-![06](/assets/images/cadence/06.jpg){:class="square right"}
+![01](/coopertype2018/assets/images/cadence/01.jpg){:class="square left"}
+![02](/coopertype2018/assets/images/cadence/02.jpg){:class="square right"}
+![03](/coopertype2018/assets/images/cadence/03.jpg){:class="square rect"}
+![04](/coopertype2018/assets/images/cadence/04.jpg){:class="square rect"}
+![07](/coopertype2018/assets/images/cadence/07.jpg){:class="rect"}
+![05](/coopertype2018/assets/images/cadence/05.jpg){:class="square left"}
+![06](/coopertype2018/assets/images/cadence/06.jpg){:class="square right"}
