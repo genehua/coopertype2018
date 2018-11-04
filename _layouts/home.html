@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<div class="home js-main">
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="home-post-list">
+      {%- for post in site.posts -%}
+      <li class="home-post-item pre-mouse-move">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          <div class="glyph">
+            <img src="{{ post.glyph-image | escape }}" alt="" />
+          </div>
+          <h3>
+              <span class="typeface-name">
+                {{ post.title | escape }}
+              </span>
+              <span class="author">
+                <div class="first">{{ post.first-name | escape }}</div>
+                <div class="last">{{ post.last-name | escape }}</div>
+              </span>
+          </h3>
+        </a>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>

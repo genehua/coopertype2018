@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Cawffee"
+first-name: "Sara"
+last-name: "De Lira"
+family-image: "/assets/images/cawffee/family.svg"
+glyph-image: "/assets/images/cawffee/glyph.svg"
+permalink: /cawffee/
+description: |
+  Cawffee is a serif typeface catered to coffee culture. The family consists of four styles for text purposes, mainly designed for use on posters, brochures, and magazines.
+  Morning to night, coffee acts as a witness to some of the most important moments of our lives. This typeface derives inspiration from the desire to communicate the essence of these experiences.
+---
+
+![01](/assets/images/cawffee/01.jpg){:class="rect"}
+![02](/assets/images/cawffee/02.jpg){:class="rect"}
+![03](/assets/images/cawffee/03.jpg){:class="rect"}
+![04](/assets/images/cawffee/04.jpg){:class="square left"}
+![05](/assets/images/cawffee/05.jpg){:class="square right"}

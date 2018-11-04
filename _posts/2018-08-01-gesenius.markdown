@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Gesenius"
+first-name: "Cory"
+last-name: "Rockliff"
+family-image: "/assets/images/frisk/family.svg"
+glyph-image: "/assets/images/gesenius/glyph.svg"
+permalink: /gesenius/
+description: |
+  Frisk combines round shapes and sharp details to create a subtle drama. Inspiration comes from the reading experinces in theatres, with details rooted in exaggerated calligraphy stroke separations.
+---
+
+![01](/assets/images/frisk/01.png){:class="rect"}
+![02](/assets/images/frisk/02.png){:class="square"}
+![03](/assets/images/frisk/03.png){:class="square"}
+![04](/assets/images/frisk/04.png){:class="square"}
+![05](/assets/images/frisk/05.png){:class="square"}
+![06](/assets/images/frisk/06.png){:class="rect"}

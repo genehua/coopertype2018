@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Geranium"
+first-name: "Ayaka B."
+last-name: "Ito"
+family-image: "/assets/images/geranium/family.svg"
+glyph-image: "/assets/images/geranium/glyph.svg"
+permalink: /geranium/
+description: |
+  GERANIUM is a planty typeface family with soft, elegant, and curvy qualities for the modern horicultural magazine. It is a slightly narrow, medium-high contrast translation serif designed for optimal usage of 16 point size body copy. The ligatures are designed to mimic the organic, wild nature of how geraniums can grow and bloom in any soil.
+
+  Instagram @ayaka.b.ito
+  www.ayakaito.com
+---
+
+![01](/assets/images/geranium/01.jpg){:class="rect"}
+![02](/assets/images/geranium/02.jpg){:class="square left"}
+![03](/assets/images/geranium/03.jpg){:class="square right"}
+![04](/assets/images/geranium/04.jpg){:class="square left"}
+![05](/assets/images/geranium/05.jpg){:class="square right"}
+![06](/assets/images/geranium/06.jpg){:class="rect"}

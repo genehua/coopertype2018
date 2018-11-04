@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article class="post">
+  <div class="post-info">
+    <p class="post-description">
+      {{ page.description }}
+    </p>
+    <img class="post-styles" src="{{ page.family-image }}" alt="{{ page.title }} family of styles.">
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+<footer class="post-footer">
+  {%- if site.posts.size > 0 -%}
+    <ul class="footer-post-list">
+      {%- for post in site.posts -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            <span class="typeface-name">
+              {{ post.title | escape }}
+            </span>
+            <span class="author">
+              <div class="first">{{ post.first-name | escape }}</div>
+              <div class="last">{{ post.last-name | escape }}</div>
+            </span>
+          </a>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</footer>

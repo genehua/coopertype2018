@@ -1,0 +1,16 @@
+current directory: /Users/genehua/Desktop/_Personal/Cooper_Type/2018_Website/coopertype2018/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby -r ./siteconf20180831-1723-g5tw8e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/genehua/Desktop/_Personal/Cooper_Type/2018_Website/coopertype2018/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/genehua/Desktop/_Personal/Cooper_Type/2018_Website/coopertype2018/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/genehua/Desktop/_Personal/Cooper_Type/2018_Website/coopertype2018/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20180831-1723-66tml6
