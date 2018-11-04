@@ -4,9 +4,10 @@ layout: default
 <div class="home js-main">
 
   {{ content }}
-
-  <div id="alpha" style="z-index: 999; position: absolute;">0</div>
-  <div id="mousePos" style="z-index: 999; position: absolute;">0</div>
+  <div class="debug" style="z-index: 999; position: absolute;">
+    <div id="alpha">0</div>
+    <div id="mousePos" >0</div>
+  </div>
 
   {%- if site.posts.size > 0 -%}
     <ul class="home-post-list">
