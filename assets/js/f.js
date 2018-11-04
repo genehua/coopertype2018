@@ -19,7 +19,7 @@ $(document).ready(function(e){
           }, 300);
         };
         var xPos = e.alpha;
-        var sensitivity = 20;
+        var sensitivity = 40;
         if (xPos < sensitivity && xPos > -sensitivity) {
           mousePos = (xPos + sensitivity) / (sensitivity*2);
         }
