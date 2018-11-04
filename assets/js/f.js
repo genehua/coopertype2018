@@ -18,8 +18,8 @@ $(document).ready(function(e){
             $('.home-post-item').removeClass('pre-mouse-move');
           }, 300);
         };
-        var xPos = e.alpha;
-        xPos = Math.round(e.alpha);
+        var xPos = e.gamma;
+        xPos = Math.round(e.gamma);
 
         var sensitivity = 40;
         if (xPos < sensitivity && xPos > -sensitivity) {
