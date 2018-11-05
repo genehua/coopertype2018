@@ -3,13 +3,20 @@ layout: post
 title:  "Saison"
 first-name: "Eric"
 last-name: "Doctor"
-family-image: "/coopertype2018/assets/images/saison/family.svg"
 glyph-image: "/coopertype2018/assets/images/saison/glyph.svg"
 permalink: /saison/
-description: |
-  Saison is an outgoing, versatile serif family made for people who love designing with type. It features open forms for legibility, a broad range of styles for expressive layout, and a casual italic.
 ---
+<div class="post-info">
+  <p class="post-description" markdown="1">
+    Saison is an outgoing, versatile serif family made for people who love designing with type. It features open forms for legibility, a broad range of styles for expressive layout, and a casual italic.
+  </p>
+  <div class="post-styles" markdown="1">
+  ![Saison Family of Styles](/coopertype2018/assets/images/saison/family.svg)
+  </div>
+</div>
 
+<section class="post-images" markdown="1">
 ![01](/coopertype2018/assets/images/saison/01.jpg){:class="rect"}
 ![02](/coopertype2018/assets/images/saison/02.jpg){:class="rect"}
 ![03](/coopertype2018/assets/images/saison/03.jpg){:class="rect"}
+</section>

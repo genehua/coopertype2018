@@ -3,19 +3,28 @@ layout: post
 title:  "Geranium"
 first-name: "Ayaka B."
 last-name: "Ito"
-family-image: "/coopertype2018/assets/images/geranium/family.svg"
 glyph-image: "/coopertype2018/assets/images/geranium/glyph.svg"
 permalink: /geranium/
-description: |
-  Geranium is a planty typeface family with soft, elegant, and curvy qualities for the modern horicultural magazine. It is a slightly narrow, medium-high contrast translation serif designed for optimal usage of 16 point size body copy. The ligatures are designed to mimic the organic, wild nature of how geraniums can grow and bloom in any soil.
-
-  Instagram @ayaka.b.ito
-  www.ayakaito.com
 ---
+<div class="post-info">
+  <p class="post-description" markdown="1">
+    Geranium is a planty typeface family with soft, elegant, and curvy qualities for the modern horicultural magazine. It is a slightly narrow, medium-high contrast translation serif designed for optimal usage of 16 point size body copy. The ligatures are designed to mimic the organic, wild nature of how geraniums can grow and bloom in any soil.
+    <br>
+    <br>
+    Instagram: [@ayaka.b.ito](http://instagram.com/ayaka.b.ito)
+    <br>
+    [www.ayakaito.com](http://ayakaito.com)
+  </p>
+  <div class="post-styles" markdown="1">
+  ![Geranium Family of Styles](/coopertype2018/assets/images/geranium/family.svg)
+  </div>
+</div>
 
+<section class="post-images" markdown="1">
 ![01](/coopertype2018/assets/images/geranium/01.jpg){:class="rect"}
 ![02](/coopertype2018/assets/images/geranium/02.jpg){:class="square left"}
 ![03](/coopertype2018/assets/images/geranium/03.jpg){:class="square right"}
 ![04](/coopertype2018/assets/images/geranium/04.jpg){:class="square left"}
 ![05](/coopertype2018/assets/images/geranium/05.jpg){:class="square right"}
 ![06](/coopertype2018/assets/images/geranium/06.jpg){:class="rect"}
+</section>

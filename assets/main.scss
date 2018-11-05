@@ -171,9 +171,6 @@ table {
 
 .post-title {
 	color: #767676;
-  .arrow {
-    font-family: "Times New Roman", serif;
-  }
 }
 
 .post-info {
@@ -182,6 +179,7 @@ table {
 	grid-template-columns: 1fr 1fr;
 	grid-column-gap: 0.9vw;
 	margin-top: 50px;
+  margin-bottom: 120px;
 }
 
 .post-description {
@@ -196,13 +194,13 @@ table {
 .post-styles {
 	width: 100%;
 	grid-column: 2;
+
+  img {
+    width: 100%;
+  }
 }
 
-.post-content {
-	margin-top: 120px;
-}
-
-.post-content p {
+.post-images p {
 	display: -ms-grid;
   display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -399,6 +397,7 @@ table {
 
 	.post-info {
 		margin-top: 20px;
+    margin-bottom: 80px;
 	}
 
 	.post-description {

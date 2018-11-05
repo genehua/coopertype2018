@@ -3,16 +3,26 @@ layout: post
 title:  "Cawffee"
 first-name: "Sara"
 last-name: "De Lira"
-family-image: "/coopertype2018/assets/images/cawffee/family.svg"
 glyph-image: "/coopertype2018/assets/images/cawffee/glyph.svg"
 permalink: /cawffee/
-description: |
-  Cawffee is a serif typeface catered to coffee culture. The family consists of four styles for text purposes, mainly designed for use on posters, brochures, and magazines.
-  Morning to night, coffee acts as a witness to some of the most important moments of our lives. This typeface derives inspiration from the desire to communicate the essence of these experiences.
 ---
 
+<div class="post-info">
+  <p class="post-description" markdown="1">
+    Cawffee is a serif typeface catered to coffee culture. The family consists of four styles for text purposes, mainly designed for use on posters, brochures, and magazines.
+    <br>
+    <br>
+    Morning to night, coffee acts as a witness to some of the most important moments of our lives. This typeface derives inspiration from the desire to communicate the essence of these experiences.
+  </p>
+  <div class="post-styles" markdown="1">
+  ![Cawffee Family of Styles](/coopertype2018/assets/images/cawffee/family.svg)
+  </div>
+</div>
+
+<section class="post-images" markdown="1">
 ![01](/coopertype2018/assets/images/cawffee/01.jpg){:class="rect"}
 ![02](/coopertype2018/assets/images/cawffee/02.jpg){:class="rect"}
 ![03](/coopertype2018/assets/images/cawffee/03.jpg){:class="rect"}
 ![04](/coopertype2018/assets/images/cawffee/04.jpg){:class="square left"}
 ![05](/coopertype2018/assets/images/cawffee/05.jpg){:class="square right"}
+</section>
