@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Geranium"
-first-name: "Ayaka B."
-last-name: "Ito"
+first-name: "Ayaka"
+last-name: "B. Ito"
 glyph-image: "/assets/images/geranium/glyph.svg"
 permalink: /geranium/
 ---
