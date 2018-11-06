@@ -169,6 +169,24 @@ table {
 	transition: 0.6s cubic-bezier(.1,.7,.3,1) transform, 0.6s cubic-bezier(.1,.7,.3,1) opacity;
 }
 
+.post-loader {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  font-size: 2.4em;
+  opacity: 0.5;
+  -webkit-animation: loader 0.25s infinite;
+  animation: loader 0.25s infinite;
+}
+
+@keyframes loader {
+  0% { opacity: 0; }
+  5% { opacity: 0.5; }
+  50% { opacity: 0.5; }
+  55% { opacity: 0; }
+  100% { opacity: 0; }
+}
+
 .post-title {
 	color: #767676;
 }
@@ -286,6 +304,10 @@ table {
 		}
 	}
 
+  .post-loader {
+    opacity: 0;
+  }
+
 	.post {
 		opacity: 1;
 		transform: translateY(0);
@@ -369,6 +391,13 @@ table {
 	.site-header {
 	  padding: 25px 15px;
 	}
+
+  .post-loader {
+    top: 25px;
+    right: 25px;
+    font-size: 2em;
+    opacity: 0.5;
+  }
 
 	.home-post-list {
 
