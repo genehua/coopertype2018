@@ -3,7 +3,7 @@ layout: post
 title:  "Cawffee"
 first-name: "Sara"
 last-name: "De Lira"
-glyph-image: "/coopertype2018/assets/images/cawffee/glyph.svg"
+glyph-image: "/assets/images/cawffee/glyph.svg"
 permalink: /cawffee/
 ---
 
@@ -20,14 +20,14 @@ permalink: /cawffee/
     [@saradelira](http://instagram.com/saradelira)
   </p>
   <div class="post-styles" markdown="1">
-  ![Cawffee Family of Styles](/coopertype2018/assets/images/cawffee/family.svg)
+  ![Cawffee Family of Styles](/assets/images/cawffee/family.svg)
   </div>
 </div>
 
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/cawffee/01.jpg){:class="rect"}
-![02](/coopertype2018/assets/images/cawffee/02.jpg){:class="rect"}
-![03](/coopertype2018/assets/images/cawffee/03.jpg){:class="rect"}
-![04](/coopertype2018/assets/images/cawffee/04.jpg){:class="square left"}
-![05](/coopertype2018/assets/images/cawffee/05.jpg){:class="square right"}
+![01](/assets/images/cawffee/01.jpg){:class="rect"}
+![02](/assets/images/cawffee/02.jpg){:class="rect"}
+![03](/assets/images/cawffee/03.jpg){:class="rect"}
+![04](/assets/images/cawffee/04.jpg){:class="square left"}
+![05](/assets/images/cawffee/05.jpg){:class="square right"}
 </section>

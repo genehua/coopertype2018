@@ -3,7 +3,7 @@ layout: post
 title:  "Wintour"
 first-name: "Nobi"
 last-name: "Kashiwagi"
-glyph-image: "/coopertype2018/assets/images/wintour/glyph.svg"
+glyph-image: "/assets/images/wintour/glyph.svg"
 permalink: /wintour/
 ---
 <div class="post-info">
@@ -16,14 +16,14 @@ permalink: /wintour/
     [@nobikashiwagi](http://instagram.com/nobikashiwagi)
   </p>
   <div class="post-styles" markdown="1">
-  ![Wintour Family of Styles](/coopertype2018/assets/images/wintour/family.svg)
+  ![Wintour Family of Styles](/assets/images/wintour/family.svg)
   </div>
 </div>
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/wintour/01.png){:class="rect"}
-![02](/coopertype2018/assets/images/wintour/02.png){:class="square left"}
-![03](/coopertype2018/assets/images/wintour/03.png){:class="square right"}
-![04](/coopertype2018/assets/images/wintour/04.png){:class="square left"}
-![05](/coopertype2018/assets/images/wintour/05.png){:class="square right"}
-![06](/coopertype2018/assets/images/wintour/06.png){:class="rect"}
+![01](/assets/images/wintour/01.png){:class="rect"}
+![02](/assets/images/wintour/02.png){:class="square left"}
+![03](/assets/images/wintour/03.png){:class="square right"}
+![04](/assets/images/wintour/04.png){:class="square left"}
+![05](/assets/images/wintour/05.png){:class="square right"}
+![06](/assets/images/wintour/06.png){:class="rect"}
 </section>

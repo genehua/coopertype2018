@@ -3,7 +3,7 @@ layout: post
 title:  "Frisk"
 first-name: "Gene"
 last-name: "Hua"
-glyph-image: "/coopertype2018/assets/images/frisk/glyph.svg"
+glyph-image: "/assets/images/frisk/glyph.svg"
 permalink: /frisk/
 ---
 <div class="post-info">
@@ -16,14 +16,14 @@ permalink: /frisk/
     [@genehua](http://instagram.com/genehua)
   </p>
   <div class="post-styles" markdown="1">
-  ![Frisk Family of Styles](/coopertype2018/assets/images/frisk/family.svg)
+  ![Frisk Family of Styles](/assets/images/frisk/family.svg)
   </div>
 </div>
 
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/frisk/01.png){:class="square left"}
-![02](/coopertype2018/assets/images/frisk/02.png){:class="square right"}
-![03](/coopertype2018/assets/images/frisk/03.png){:class="rect"}
-![04](/coopertype2018/assets/images/frisk/04.png){:class="square left"}
-![05](/coopertype2018/assets/images/frisk/05.png){:class="square right"}
+![01](/assets/images/frisk/01.png){:class="square left"}
+![02](/assets/images/frisk/02.png){:class="square right"}
+![03](/assets/images/frisk/03.png){:class="rect"}
+![04](/assets/images/frisk/04.png){:class="square left"}
+![05](/assets/images/frisk/05.png){:class="square right"}
 </section>

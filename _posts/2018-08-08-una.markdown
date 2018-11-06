@@ -3,7 +3,7 @@ layout: post
 title:  "Una"
 first-name: "Annabel"
 last-name: "Brandon"
-glyph-image: "/coopertype2018/assets/images/una/glyph.svg"
+glyph-image: "/assets/images/una/glyph.svg"
 permalink: /una/
 ---
 
@@ -16,15 +16,15 @@ permalink: /una/
     [@annabelbrandon](http://instagram.com/annabelbrandon)
   </p>
   <div class="post-styles" markdown="1">
-  ![Una Family of Styles](/coopertype2018/assets/images/una/family.svg)
+  ![Una Family of Styles](/assets/images/una/family.svg)
   </div>
 </div>
 
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/una/01.jpg){:class="rect"}
-![02](/coopertype2018/assets/images/una/02.jpg){:class="square left"}
-![03](/coopertype2018/assets/images/una/03.jpg){:class="square right"}
-![06](/coopertype2018/assets/images/una/06.jpg){:class="rect"}
-![04](/coopertype2018/assets/images/una/04.jpg){:class="rect"}
-![05](/coopertype2018/assets/images/una/05.jpg){:class="rect"}
+![01](/assets/images/una/01.jpg){:class="rect"}
+![02](/assets/images/una/02.jpg){:class="square left"}
+![03](/assets/images/una/03.jpg){:class="square right"}
+![06](/assets/images/una/06.jpg){:class="rect"}
+![04](/assets/images/una/04.jpg){:class="rect"}
+![05](/assets/images/una/05.jpg){:class="rect"}
 </section>

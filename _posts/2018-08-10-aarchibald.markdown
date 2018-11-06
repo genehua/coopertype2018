@@ -3,7 +3,7 @@ layout: post
 title:  "Aarchibald"
 first-name: "Ana"
 last-name: "Andreeva"
-glyph-image: "/coopertype2018/assets/images/aarchibald/glyph.svg"
+glyph-image: "/assets/images/aarchibald/glyph.svg"
 permalink: /aarchibald/
 ---
 
@@ -17,13 +17,13 @@ permalink: /aarchibald/
     [@turbonastya](http://instagram.com/turbonastya)
   </p>
   <div class="post-styles" markdown="1">
-  ![Aarchibald Family of Styles](/coopertype2018/assets/images/aarchibald/family.svg)
+  ![Aarchibald Family of Styles](/assets/images/aarchibald/family.svg)
   </div>
 </div>
 
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/aarchibald/01.jpg){:class="square left"}
-![02](/coopertype2018/assets/images/aarchibald/02.jpg){:class="square right"}
-![03](/coopertype2018/assets/images/aarchibald/03.jpg){:class="square left"}
-![04](/coopertype2018/assets/images/aarchibald/04.jpg){:class="square right"}
+![01](/assets/images/aarchibald/01.jpg){:class="square left"}
+![02](/assets/images/aarchibald/02.jpg){:class="square right"}
+![03](/assets/images/aarchibald/03.jpg){:class="square left"}
+![04](/assets/images/aarchibald/04.jpg){:class="square right"}
 </section>

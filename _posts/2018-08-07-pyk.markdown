@@ -3,7 +3,7 @@ layout: post
 title:  "Pyk"
 first-name: "Erica"
 last-name: "Carras"
-glyph-image: "/coopertype2018/assets/images/pyk/glyph.svg"
+glyph-image: "/assets/images/pyk/glyph.svg"
 permalink: /pyk/
 ---
 <div class="post-info">
@@ -16,14 +16,14 @@ permalink: /pyk/
     [@tinytypo](http://instagram.com/tinytypo)
   </p>
   <div class="post-styles" markdown="1">
-  ![Pyk Family of Styles](/coopertype2018/assets/images/pyk/family.svg)
+  ![Pyk Family of Styles](/assets/images/pyk/family.svg)
   </div>
 </div>
 
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/pyk/01.jpg){:class="square left"}
-![02](/coopertype2018/assets/images/pyk/02.jpg){:class="square right"}
-![03](/coopertype2018/assets/images/pyk/03.jpg){:class="rect"}
-![04](/coopertype2018/assets/images/pyk/04.jpg){:class="square left"}
-![05](/coopertype2018/assets/images/pyk/05.jpg){:class="square right"}
+![01](/assets/images/pyk/01.jpg){:class="square left"}
+![02](/assets/images/pyk/02.jpg){:class="square right"}
+![03](/assets/images/pyk/03.jpg){:class="rect"}
+![04](/assets/images/pyk/04.jpg){:class="square left"}
+![05](/assets/images/pyk/05.jpg){:class="square right"}
 </section>

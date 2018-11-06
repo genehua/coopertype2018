@@ -3,7 +3,7 @@ layout: post
 title:  "Cadence"
 first-name: "Lindsay"
 last-name: "Barnett"
-glyph-image: "/coopertype2018/assets/images/cadence/glyph.svg"
+glyph-image: "/assets/images/cadence/glyph.svg"
 permalink: /cadence/
 ---
 <div class="post-info">
@@ -16,15 +16,15 @@ permalink: /cadence/
     [@lindsaym22](http://instagram.com/lindsaym22)
   </p>
   <div class="post-styles" markdown="1">
-  ![Cadence Family of Styles](/coopertype2018/assets/images/cadence/family.svg)
+  ![Cadence Family of Styles](/assets/images/cadence/family.svg)
   </div>
 </div>
 
 <section class="post-images" markdown="1">
-![01](/coopertype2018/assets/images/cadence/01.jpg){:class="square left"}
-![02](/coopertype2018/assets/images/cadence/02.jpg){:class="square right"}
-![03](/coopertype2018/assets/images/cadence/03.jpg){:class="square rect"}
-![07](/coopertype2018/assets/images/cadence/07.jpg){:class="rect"}
-![05](/coopertype2018/assets/images/cadence/05.jpg){:class="square left"}
-![06](/coopertype2018/assets/images/cadence/06.jpg){:class="square right"}
+![01](/assets/images/cadence/01.jpg){:class="square left"}
+![02](/assets/images/cadence/02.jpg){:class="square right"}
+![03](/assets/images/cadence/03.jpg){:class="square rect"}
+![07](/assets/images/cadence/07.jpg){:class="rect"}
+![05](/assets/images/cadence/05.jpg){:class="square left"}
+![06](/assets/images/cadence/06.jpg){:class="square right"}
 </section>
