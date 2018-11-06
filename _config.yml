@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ana Andreeva, Lindsay Barnett, Annabel Brandon, Erica Carras, Sara De Lira, Eric Doctor,
   Gene Hua, Ayaka Ito, Nobi Kashiwagi, and Cory Rockliff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://coopertype2018.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://coopertype2018.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: genehua
 
 # Build settings
