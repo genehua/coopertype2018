@@ -32,7 +32,7 @@ $(document).ready(function(e){
         }
 
         setGrey();
-        
+
       };
       window.addEventListener("deviceorientation", handleOrientation, true);
     }

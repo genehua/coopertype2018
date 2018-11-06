@@ -171,8 +171,8 @@ table {
 
 .post-loader {
   position: absolute;
-  top: 30px;
-  right: 30px;
+  top: 50vh;
+  right: 50vw;
   font-size: 2.4em;
   opacity: 0.5;
   -webkit-animation: loader 0.25s infinite;
@@ -248,6 +248,9 @@ table {
 .post-footer {
 	width: 100%;
 	margin: 50px 0 32px 0;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: 0.6s cubic-bezier(.1,.7,.3,1) transform, 0.6s cubic-bezier(.1,.7,.3,1) opacity;
 
   .footer-post-list {
     display: -webkit-flex;
@@ -308,7 +311,7 @@ table {
     display: none;
   }
 
-	.post {
+	.post, .post-footer {
 		opacity: 1;
 		transform: translateY(0);
 	}
@@ -393,8 +396,8 @@ table {
 	}
 
   .post-loader {
-    top: 25px;
-    right: 25px;
+    top: 50vh;
+    right: 50vw;
     font-size: 2em;
     opacity: 0.5;
   }
