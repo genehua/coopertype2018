@@ -150,7 +150,7 @@ table {
 		height: 32vw;
 		position: absolute;
 		overflow-x: hidden;
-		bottom: 160px;
+		bottom: 150px;
 
 		img {
 			position: absolute;
@@ -314,7 +314,7 @@ table {
 		.glyph {
 			height: 55vw;
 			width: calc(100% - 15px);
-			bottom: 90px;
+			bottom: 80px;
 
 			img {
 				transform: translateX(20vw);
@@ -373,7 +373,7 @@ table {
 	.home-post-list {
 
 		li {
-			.glyph 	{ bottom: 160px; }
+			.glyph 	{ bottom: 150px; }
 			h3 			{ bottom: 110px; }
 		}
 

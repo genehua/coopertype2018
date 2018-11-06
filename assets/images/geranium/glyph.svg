@@ -2,7 +2,7 @@
   <defs>
     <polygon id="glyph-a" points="0 0 1458 0 1458 1095 0 1095"/>
   </defs>
-  <g fill="none" fill-rule="evenodd" transform="translate(0 39)">
+  <g fill="none" fill-rule="evenodd" transform="translate(0 12)">
     <mask id="glyph-b" fill="#fff">
       <use xlink:href="#glyph-a"/>
     </mask>
