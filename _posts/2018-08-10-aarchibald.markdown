@@ -10,6 +10,11 @@ permalink: /aarchibald/
 <div class="post-info">
   <p class="post-description" markdown="1">
     Aarchibald is a typeface family designed for architectural publications and German language. Aarchibald is an open, readable typeface with sharp, angular elements. Extra-low cap height and short extenders allow for tight line spacing and make it easy to use in cap-heavy setups. Supports most European languages and includes Cyrillic alphabet, linear and old-style number sets, ligatures and OpenType features.
+    <br>
+    <br>
+    Instagram:
+    <br>
+    [@turbonastya](http://instagram.com/turbonastya)
   </p>
   <div class="post-styles" markdown="1">
   ![Aarchibald Family of Styles](/coopertype2018/assets/images/aarchibald/family.svg)

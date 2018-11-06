@@ -9,6 +9,11 @@ permalink: /pyk/
 <div class="post-info">
   <p class="post-description" markdown="1">
     Made for the indie, grunge or punk scene, Pyk is an upright italic sans serif text face with no fear of being a little bit funky. Inspired by the work of Helmut Salden and his bouncing brush lettering, Pyk sets out to capture that bouncing rhythm, but designed for text setting.
+    <br>
+    <br>
+    Instagram:
+    <br>
+    [@tinytypo](http://instagram.com/tinytypo)
   </p>
   <div class="post-styles" markdown="1">
   ![Pyk Family of Styles](/coopertype2018/assets/images/pyk/family.svg)

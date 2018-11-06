@@ -9,6 +9,11 @@ permalink: /saison/
 <div class="post-info">
   <p class="post-description" markdown="1">
     Saison is an outgoing, versatile serif family made for people who love designing with type. It features open forms for legibility, a broad range of styles for expressive layout, and a casual italic.
+    <br>
+    <br>
+    Instagram:
+    <br>
+    [@therevdoctor](http://instagram.com/therevdoctor)
   </p>
   <div class="post-styles" markdown="1">
   ![Saison Family of Styles](/coopertype2018/assets/images/saison/family.svg)

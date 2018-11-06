@@ -8,11 +8,21 @@ permalink: /gesenius/
 ---
 <div class="post-info">
   <p class="post-description" markdown="1">
-    Description here
+    Books that combine the Latin and Hebrew alphabets in one paragraph are notoriously difficult to typeset. The stock of Hebrew book faces is limited, and none of the classics pair well with the standard roman book faces. Gesenius, a sturdy, quiet bookcase with a companion Hebrew, was designed for this particular niche. Inspired by the roman and Hebrew type of sixteenth-century French punch cutter Guillaume Le Bé, with letterforms, weight, and proportions adjusted for an approachable, contemporary feel, Gesenius makes it possible to set Hebrew and roman side-by-side without compromises.
+    <br>
+    <br>
+    Instagram:
+    <br>
+    [@coryrockliff](http://instagram.com/coryrockliff)
   </p>
   <div class="post-styles" markdown="1">
-  ![Gesenius Family of Styles](/coopertype2018/assets/images/frisk/family.svg)
+  ![Gesenius Family of Styles](/coopertype2018/assets/images/gesenius/family.svg)
   </div>
 </div>
 <section class="post-images" markdown="1">
+![01](/coopertype2018/assets/images/gesenius/01.jpg){:class="rect"}
+![02](/coopertype2018/assets/images/gesenius/02.jpg){:class="rect"}
+![03](/coopertype2018/assets/images/gesenius/03.jpg){:class="rect"}
+![04](/coopertype2018/assets/images/gesenius/04.jpg){:class="square left"}
+![05](/coopertype2018/assets/images/gesenius/05.jpg){:class="square right"}
 </section>
