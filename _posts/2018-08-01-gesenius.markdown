@@ -21,8 +21,7 @@ permalink: /gesenius/
 </div>
 <section class="post-images" markdown="1">
 ![01](/assets/images/gesenius/01.jpg){:class="rect"}
-![02](/assets/images/gesenius/02.jpg){:class="rect"}
-![03](/assets/images/gesenius/03.jpg){:class="rect"}
-![04](/assets/images/gesenius/04.jpg){:class="square left"}
-![05](/assets/images/gesenius/05.jpg){:class="square right"}
+![02](/assets/images/gesenius/02.jpg){:class="square left"}
+![03](/assets/images/gesenius/03.jpg){:class="square right"}
+![04](/assets/images/gesenius/04.jpg){:class="rect"}
 </section>
