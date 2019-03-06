@@ -21,7 +21,9 @@ permalink: /saison/
 </div>
 
 <section class="post-images" markdown="1">
-![01](/assets/images/saison/01.jpg){:class="rect"}
-![02](/assets/images/saison/02.jpg){:class="rect"}
-![03](/assets/images/saison/03.jpg){:class="rect"}
+![01](/assets/images/saison/01.png){:class="rect"}
+![02](/assets/images/saison/02.png){:class="rect"}
+![03](/assets/images/saison/03.png){:class="rect"}
+![04](/assets/images/saison/04.png){:class="rect"}
+![05](/assets/images/saison/05.png){:class="rect"}
 </section>
