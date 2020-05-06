@@ -14,7 +14,7 @@ permalink: /aarchibald/
     <br>
     Instagram:
     <br>
-    [@turbonastya](http://instagram.com/turbonastya)
+    [@ana.one.n](http://instagram.com/ana.one.n)
   </p>
   <div class="post-styles" markdown="1">
   ![Aarchibald Family of Styles](/assets/images/aarchibald/family.svg)
